@@ -1,6 +1,6 @@
-# My Profile Portfolio
+# My Profile Page
 
-This is my personal portfolio website built with HTML and CSS. It showcases my skills, education, experience, and projects.
+This is my profile page built with HTML and CSS. It showcases my skills, education, experience, and projects.
 
 ## Sections
 
@@ -18,4 +18,4 @@ This is my personal portfolio website built with HTML and CSS. It showcases my s
 
 ## Screenshot
 
-![Sample Image of my Profile](MyProfile.png)
+![Sample Image](MyProfile.png)
